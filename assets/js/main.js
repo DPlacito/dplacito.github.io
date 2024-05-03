@@ -302,7 +302,7 @@ document
 
     // Configura los datos para enviar el correo usando EmailJS
     const data = {
-      service_id: "service_giht34p",
+      service_id: "service_jkrcafj",
       template_id: "template_aegkja7",
       user_id: "TU_USER_ID",
       template_params: {
