@@ -178,6 +178,10 @@ h6 {
   color: #6f7180;
 }
 
+.skill-icon {
+  width: 60%;
+}
+
 .nav-menu a:hover,
 .nav-menu .active,
 .nav-menu .active:focus,
@@ -318,6 +322,15 @@ section {
   padding-bottom: 30px;
 }
 
+.section-title-skill {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  position: relative;
+  color: #173b6c;
+}
+
 .section-title h2 {
   font-size: 32px;
   font-weight: bold;
@@ -442,6 +455,15 @@ section {
   padding: 0;
   margin: 0 0 6px 0;
   text-transform: uppercase;
+  display: block;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+  color: #050d18;
+}
+
+.skill-title {
+  padding: 0;
+  margin: 15px 0 10px 0;
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
